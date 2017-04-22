@@ -48,6 +48,9 @@
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="WPFVisifire.Charts">
+      <HintPath>F:\迅雷下载\VisifireShow\VisifireShow\bin\Debug\WPFVisifire.Charts.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
